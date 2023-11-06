@@ -532,4 +532,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db03789ef03932e428ea4f14902236f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objetoQueVaiMorrer: {fileID: 705507993}
+  objetoQueVaiMorrer: {fileID: 143131376}
